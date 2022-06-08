@@ -9,6 +9,9 @@ import { LoginComponent } from './components/login/login.component';
 import { RegisterComponent } from './components/register/register.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { HttpClientModule } from '@angular/common/http';
+import { FashionDesigningComponent } from './components/courses/fashion-designing/fashion-designing.component';
+import { HairStylingComponent } from './components/courses/hair-styling/hair-styling.component';
+import { DashboardComponent } from './components/dashboard/dashboard.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +19,10 @@ import { HttpClientModule } from '@angular/common/http';
     NavbarComponent,
     HomeComponent,
     LoginComponent,
-    RegisterComponent
+    RegisterComponent,
+    FashionDesigningComponent,
+    HairStylingComponent,
+    DashboardComponent
   ],
   imports: [
     BrowserModule,
