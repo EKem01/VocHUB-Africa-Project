@@ -3,5 +3,8 @@ img{
     height: 80vh;
 }
 .card img{
-    height: 60px;
+    height: 200px;
+}
+.course a{
+    text-decoration: none;
 }
