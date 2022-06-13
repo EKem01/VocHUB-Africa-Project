@@ -1,0 +1,29 @@
+img{
+    width: 100%;
+    height: 80vh;
+}
+.carousel-item img{
+    
+}
+.course-btn{
+    background-color: rgb(134, 204, 245);
+    border: 2px solid rgb(238, 125, 84);
+}
+.courses h1{
+    color: rgb(238, 125, 84);
+}
+.courses h3{
+    color:  rgb(134, 204, 245);
+}
+.card{
+    border-radius: 22px 0px 0 0;
+    border: 3px solid rgb(238, 125, 84);
+}
+.card img{
+    height: 200px;
+    border-radius: 22px 0px;
+}
+.course a{
+    text-decoration: none;
+    color: rgb(134, 204, 245);
+}
