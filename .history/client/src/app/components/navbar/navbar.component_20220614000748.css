@@ -1,0 +1,13 @@
+.navbar {
+  background: black;
+}
+button {
+  border-radius: 10px;
+}
+.container .navbar-brand {
+  font-weight: 700;
+}
+.navbar-brand {
+  color: #0096ff;
+  font-size: 25px;
+}

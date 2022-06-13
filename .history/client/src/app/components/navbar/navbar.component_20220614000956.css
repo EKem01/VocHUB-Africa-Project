@@ -1,9 +1,8 @@
 .navbar {
-  background: rgb(184, 231, 246);
+  background: black;
 }
-.navbar-right a{
-    color: black !important;
-    font-weight: 550;
+.navbar-right{
+    
 }
 button {
   border-radius: 10px;
@@ -14,7 +13,4 @@ button {
 .navbar-brand {
   color: #0096ff;
   font-size: 25px;
-}
-.navbar-toggler{
-    background-color: white;
 }

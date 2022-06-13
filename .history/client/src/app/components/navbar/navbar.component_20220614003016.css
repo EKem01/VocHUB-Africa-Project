@@ -1,9 +1,8 @@
 .navbar {
-  background: rgb(184, 231, 246);
+  background: rgb(255, 172, 172);
 }
 .navbar-right a{
-    color: black !important;
-    font-weight: 550;
+    color: white !important;
 }
 button {
   border-radius: 10px;

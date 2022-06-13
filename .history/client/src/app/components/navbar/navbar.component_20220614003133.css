@@ -2,8 +2,7 @@
   background: rgb(184, 231, 246);
 }
 .navbar-right a{
-    color: black !important;
-    font-weight: 550;
+    color: white !important;
 }
 button {
   border-radius: 10px;
