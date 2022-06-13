@@ -12,6 +12,8 @@ import { HttpClientModule } from '@angular/common/http';
 import { FashionDesigningComponent } from './components/courses/fashion-designing/fashion-designing.component';
 import { HairStylingComponent } from './components/courses/hair-styling/hair-styling.component';
 import { DashboardComponent } from './components/dashboard/dashboard.component';
+import { LogoutComponent } from './components/logout/logout.component';
+import { MentorshipComponent } from './components/mentorship/mentorship.component';
 
 @NgModule({
   declarations: [
@@ -19,10 +21,13 @@ import { DashboardComponent } from './components/dashboard/dashboard.component';
     NavbarComponent,
     HomeComponent,
     LoginComponent,
+    LogoutComponent,
     RegisterComponent,
     FashionDesigningComponent,
     HairStylingComponent,
-    DashboardComponent
+    DashboardComponent,
+    LogoutComponent,
+    MentorshipComponent
   ],
   imports: [
     BrowserModule,
